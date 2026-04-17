@@ -34,6 +34,7 @@
 
 👉 Frontend: https://github.com/Nireeksha512/frontend  
 👉 Backend: https://github.com/Nireeksha512/backend  
+    Deployment: https://github.com/Nireeksha512/aws-audio-transcriber-deployment
 
 ---
 
