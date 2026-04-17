@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/nireeksha-shetty-779525287
+- 💼 LinkedIn: https://linkedin.com/in/nireeksha-shetty-779525287
 - 💻 GitHub: https://github.com/Nireeksha512
 
 ---
